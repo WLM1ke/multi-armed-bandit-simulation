@@ -1,1 +1,9 @@
-# multi-armed-bandit-simulation
+# Multi armed bandit simulation
+
+Симуляция Сэмплирования Томсона в скользящем окне для изменяющейся среды
+
+Для запуска необходимо установить пакетный менеджер [uv](https://docs.astral.sh/uv/), поменять параметры симуляции и запустить:
+
+```bash
+uv run main.py
+```
